@@ -1,6 +1,5 @@
-# 🌊 Rising Waters – AI Flood Prediction System
-
-> Developed as part of the **IBM SmartBridge Internship Program**
+# 🌊 Rising Waters – AI Flood Prediction 
+**SmartBridge Internship Program**
 
 ---
 
@@ -172,19 +171,13 @@ Government agencies and researchers can validate historical flood data using the
 
 # 👥 Team Members
 
-- **chunduru mohan rao** – Team Lead
+- **chunduru Mohan Rao** – Team Lead
 - **Tummala sunil**
-- **venkatrao paladugu**
+- **Venkatrao Paladugu**
 
 ---
 
-# 🎓 Internship
 
-This project was developed as part of the **IBM SmartBridge Internship Program**.
-
----
-
-# ❤️ Thank You
 
 Thank you for exploring our project.
 
